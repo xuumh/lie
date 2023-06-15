@@ -366,7 +366,9 @@ a:focus {
 
 .slider_item-detail a:hover {
   background-color: transparent;
-  color: #ffffff;
+  color: #000000;
+  border-color: #000000;
+  border-width: 2px;
 }
 
 .slider_section #carouselExampleIndicators,
